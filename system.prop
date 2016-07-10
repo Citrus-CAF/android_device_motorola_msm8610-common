@@ -41,7 +41,7 @@ ro.bluetooth.dun=true
 ro.qualcomm.bluetooth.map=true
 
 # Display
-ro.sf.lcd_density=240
+ro.sf.lcd_density=223
 ro.hdmi.enable=true
 ro.opengles.version=196608
 persist.hwc.mdpcomp.enable=true
